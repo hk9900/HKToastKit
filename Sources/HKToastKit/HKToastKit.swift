@@ -12,19 +12,6 @@ public struct HKToastKit {
         ConfigurationManager.shared.configuration
     }
     
-    // MARK: - Re-export Types
-    public typealias ToastManager = HKToastKit.ToastManager
-    public typealias Toast = HKToastKit.Toast
-    public typealias ToastType = HKToastKit.ToastType
-    
-    // MARK: - Static Access
-    public static var ToastManager: HKToastKit.ToastManager.Type {
-        return HKToastKit.ToastManager.self
-    }
-    
-    public static var ToastType: HKToastKit.ToastType.Type {
-        return HKToastKit.ToastType.self
-    }
 }
 
 // MARK: - Configuration Manager
