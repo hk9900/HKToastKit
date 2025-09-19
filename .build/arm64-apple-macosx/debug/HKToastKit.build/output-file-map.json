@@ -1,0 +1,47 @@
+{
+  "": {
+    "swift-dependencies": "/Users/hassan.khan/Documents/Development/iOS/Personal/HKToastKit/.build/arm64-apple-macosx/debug/HKToastKit.build/master.swiftdeps"
+  },
+  "/Users/hassan.khan/Documents/Development/iOS/Personal/HKToastKit/Sources/HKToastKit/Configuration/ToastConfiguration.swift": {
+    "dependencies": "/Users/hassan.khan/Documents/Development/iOS/Personal/HKToastKit/.build/arm64-apple-macosx/debug/HKToastKit.build/ToastConfiguration.d",
+    "object": "/Users/hassan.khan/Documents/Development/iOS/Personal/HKToastKit/.build/arm64-apple-macosx/debug/HKToastKit.build/ToastConfiguration.swift.o",
+    "swiftmodule": "/Users/hassan.khan/Documents/Development/iOS/Personal/HKToastKit/.build/arm64-apple-macosx/debug/HKToastKit.build/ToastConfiguration~partial.swiftmodule",
+    "swift-dependencies": "/Users/hassan.khan/Documents/Development/iOS/Personal/HKToastKit/.build/arm64-apple-macosx/debug/HKToastKit.build/ToastConfiguration.swiftdeps"
+  },
+  "/Users/hassan.khan/Documents/Development/iOS/Personal/HKToastKit/Sources/HKToastKit/HKToastKit.swift": {
+    "dependencies": "/Users/hassan.khan/Documents/Development/iOS/Personal/HKToastKit/.build/arm64-apple-macosx/debug/HKToastKit.build/HKToastKit.d",
+    "object": "/Users/hassan.khan/Documents/Development/iOS/Personal/HKToastKit/.build/arm64-apple-macosx/debug/HKToastKit.build/HKToastKit.swift.o",
+    "swiftmodule": "/Users/hassan.khan/Documents/Development/iOS/Personal/HKToastKit/.build/arm64-apple-macosx/debug/HKToastKit.build/HKToastKit~partial.swiftmodule",
+    "swift-dependencies": "/Users/hassan.khan/Documents/Development/iOS/Personal/HKToastKit/.build/arm64-apple-macosx/debug/HKToastKit.build/HKToastKit.swiftdeps"
+  },
+  "/Users/hassan.khan/Documents/Development/iOS/Personal/HKToastKit/Sources/HKToastKit/Managers/ToastManager.swift": {
+    "dependencies": "/Users/hassan.khan/Documents/Development/iOS/Personal/HKToastKit/.build/arm64-apple-macosx/debug/HKToastKit.build/ToastManager.d",
+    "object": "/Users/hassan.khan/Documents/Development/iOS/Personal/HKToastKit/.build/arm64-apple-macosx/debug/HKToastKit.build/ToastManager.swift.o",
+    "swiftmodule": "/Users/hassan.khan/Documents/Development/iOS/Personal/HKToastKit/.build/arm64-apple-macosx/debug/HKToastKit.build/ToastManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/hassan.khan/Documents/Development/iOS/Personal/HKToastKit/.build/arm64-apple-macosx/debug/HKToastKit.build/ToastManager.swiftdeps"
+  },
+  "/Users/hassan.khan/Documents/Development/iOS/Personal/HKToastKit/Sources/HKToastKit/Models/Toast.swift": {
+    "dependencies": "/Users/hassan.khan/Documents/Development/iOS/Personal/HKToastKit/.build/arm64-apple-macosx/debug/HKToastKit.build/Toast.d",
+    "object": "/Users/hassan.khan/Documents/Development/iOS/Personal/HKToastKit/.build/arm64-apple-macosx/debug/HKToastKit.build/Toast.swift.o",
+    "swiftmodule": "/Users/hassan.khan/Documents/Development/iOS/Personal/HKToastKit/.build/arm64-apple-macosx/debug/HKToastKit.build/Toast~partial.swiftmodule",
+    "swift-dependencies": "/Users/hassan.khan/Documents/Development/iOS/Personal/HKToastKit/.build/arm64-apple-macosx/debug/HKToastKit.build/Toast.swiftdeps"
+  },
+  "/Users/hassan.khan/Documents/Development/iOS/Personal/HKToastKit/Sources/HKToastKit/Models/ToastType.swift": {
+    "dependencies": "/Users/hassan.khan/Documents/Development/iOS/Personal/HKToastKit/.build/arm64-apple-macosx/debug/HKToastKit.build/ToastType.d",
+    "object": "/Users/hassan.khan/Documents/Development/iOS/Personal/HKToastKit/.build/arm64-apple-macosx/debug/HKToastKit.build/ToastType.swift.o",
+    "swiftmodule": "/Users/hassan.khan/Documents/Development/iOS/Personal/HKToastKit/.build/arm64-apple-macosx/debug/HKToastKit.build/ToastType~partial.swiftmodule",
+    "swift-dependencies": "/Users/hassan.khan/Documents/Development/iOS/Personal/HKToastKit/.build/arm64-apple-macosx/debug/HKToastKit.build/ToastType.swiftdeps"
+  },
+  "/Users/hassan.khan/Documents/Development/iOS/Personal/HKToastKit/Sources/HKToastKit/Modifiers/ToastOverlayModifier.swift": {
+    "dependencies": "/Users/hassan.khan/Documents/Development/iOS/Personal/HKToastKit/.build/arm64-apple-macosx/debug/HKToastKit.build/ToastOverlayModifier.d",
+    "object": "/Users/hassan.khan/Documents/Development/iOS/Personal/HKToastKit/.build/arm64-apple-macosx/debug/HKToastKit.build/ToastOverlayModifier.swift.o",
+    "swiftmodule": "/Users/hassan.khan/Documents/Development/iOS/Personal/HKToastKit/.build/arm64-apple-macosx/debug/HKToastKit.build/ToastOverlayModifier~partial.swiftmodule",
+    "swift-dependencies": "/Users/hassan.khan/Documents/Development/iOS/Personal/HKToastKit/.build/arm64-apple-macosx/debug/HKToastKit.build/ToastOverlayModifier.swiftdeps"
+  },
+  "/Users/hassan.khan/Documents/Development/iOS/Personal/HKToastKit/Sources/HKToastKit/Views/ToastView.swift": {
+    "dependencies": "/Users/hassan.khan/Documents/Development/iOS/Personal/HKToastKit/.build/arm64-apple-macosx/debug/HKToastKit.build/ToastView.d",
+    "object": "/Users/hassan.khan/Documents/Development/iOS/Personal/HKToastKit/.build/arm64-apple-macosx/debug/HKToastKit.build/ToastView.swift.o",
+    "swiftmodule": "/Users/hassan.khan/Documents/Development/iOS/Personal/HKToastKit/.build/arm64-apple-macosx/debug/HKToastKit.build/ToastView~partial.swiftmodule",
+    "swift-dependencies": "/Users/hassan.khan/Documents/Development/iOS/Personal/HKToastKit/.build/arm64-apple-macosx/debug/HKToastKit.build/ToastView.swiftdeps"
+  }
+}

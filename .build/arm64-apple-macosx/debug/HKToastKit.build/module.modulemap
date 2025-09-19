@@ -1,0 +1,4 @@
+module HKToastKit {
+    header "/Users/hassan.khan/Documents/Development/iOS/Personal/HKToastKit/.build/arm64-apple-macosx/debug/HKToastKit.build/HKToastKit-Swift.h"
+    requires objc
+}

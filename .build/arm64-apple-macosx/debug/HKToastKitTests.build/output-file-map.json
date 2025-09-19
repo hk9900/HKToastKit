@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/hassan.khan/Documents/Development/iOS/Personal/HKToastKit/.build/arm64-apple-macosx/debug/HKToastKitTests.build/master.swiftdeps"
+  },
+  "/Users/hassan.khan/Documents/Development/iOS/Personal/HKToastKit/Tests/HKToastKitTests/HKToastKitTests.swift": {
+    "dependencies": "/Users/hassan.khan/Documents/Development/iOS/Personal/HKToastKit/.build/arm64-apple-macosx/debug/HKToastKitTests.build/HKToastKitTests.d",
+    "object": "/Users/hassan.khan/Documents/Development/iOS/Personal/HKToastKit/.build/arm64-apple-macosx/debug/HKToastKitTests.build/HKToastKitTests.swift.o",
+    "swiftmodule": "/Users/hassan.khan/Documents/Development/iOS/Personal/HKToastKit/.build/arm64-apple-macosx/debug/HKToastKitTests.build/HKToastKitTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/hassan.khan/Documents/Development/iOS/Personal/HKToastKit/.build/arm64-apple-macosx/debug/HKToastKitTests.build/HKToastKitTests.swiftdeps"
+  }
+}

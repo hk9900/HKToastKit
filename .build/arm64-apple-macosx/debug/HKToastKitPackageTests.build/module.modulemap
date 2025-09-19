@@ -1,0 +1,4 @@
+module HKToastKitPackageTests {
+    header "/Users/hassan.khan/Documents/Development/iOS/Personal/HKToastKit/.build/arm64-apple-macosx/debug/HKToastKitPackageTests.build/HKToastKitPackageTests-Swift.h"
+    requires objc
+}
