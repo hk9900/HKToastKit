@@ -12,6 +12,10 @@ public struct HKToastKit {
         ConfigurationManager.shared.configuration
     }
     
+    // MARK: - Re-export Types
+    public typealias ToastManager = HKToastKit.ToastManager
+    public typealias Toast = HKToastKit.Toast
+    public typealias ToastType = HKToastKit.ToastType
 }
 
 // MARK: - Configuration Manager
